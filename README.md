@@ -1,1 +1,2 @@
 # Analyze-Death-Age-Difference-of-Right-Handers-with-Left-Handers-Project.
+In this project, you will explore this phenomenon using age distribution data to see if we canreproduce a difference in average age at death purely from the changing rates of left-handednessover time, refuting the claim of early death for left-handers. This notebook uses pandas and Bayesianstatistics to analyze the probability of being a certain age at death given that you are reported as left-handed or right-handed.
